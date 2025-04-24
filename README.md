@@ -14,5 +14,5 @@ All notebooks collected from the short course [Evaluating AI Agents](https://www
     - [Lab 4]()
 5. Adding Structure to your Evaluations
     - [Lab 5]()
-Appendix - Resources, Tips and Help
+6. Appendix - Resources, Tips and Help
     - [Appendix]()
